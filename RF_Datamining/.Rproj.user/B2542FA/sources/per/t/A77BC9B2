@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1624645108328.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A77BC9B2",
+    "lastKnownWriteTime" : 8746391117079132706,
+    "last_content_update" : 1624645108328,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FD3F416E",
+        "caption" : "palay",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=palay&cache_key=FD3F416E",
+        "displayedObservations" : 680,
+        "environment" : "",
+        "object" : "palay",
+        "preview" : 0,
+        "totalObservations" : 680,
+        "variables" : 4
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

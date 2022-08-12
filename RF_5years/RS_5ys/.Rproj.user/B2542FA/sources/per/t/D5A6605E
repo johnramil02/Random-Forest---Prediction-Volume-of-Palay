@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1624695027749.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D5A6605E",
+    "lastKnownWriteTime" : 2731483385432,
+    "last_content_update" : 1624695027749,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D80065F3",
+        "caption" : "palay5",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=palay5&cache_key=D80065F3",
+        "displayedObservations" : 760,
+        "environment" : "",
+        "object" : "palay5",
+        "preview" : 0,
+        "totalObservations" : 760,
+        "variables" : 4
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

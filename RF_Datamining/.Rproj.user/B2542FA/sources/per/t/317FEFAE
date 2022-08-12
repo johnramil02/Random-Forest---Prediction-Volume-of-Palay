@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1624643516849.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3294687238",
+    "id" : "317FEFAE",
+    "lastKnownWriteTime" : 1624649975,
+    "last_content_update" : 1624649975074,
+    "path" : "~/RLanguage Projects/Data mining Random Forest/RF_5years/RF_predict.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "119,37",
+        "scrollLine" : "104"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
